@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaya0\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
+      "projectUniqueName": "C:\\Users\\kaya0\\source\\repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
       "projectName": "HNI-TPmoyennes",
-      "projectPath": "C:\\Users\\kaya0\\Source\\Repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
+      "projectPath": "C:\\Users\\kaya0\\source\\repos\\HNI-TPmoyennes\\HNI-TPmoyennes.csproj",
       "packagesPath": "C:\\Users\\kaya0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaya0\\Source\\Repos\\HNI-TPmoyennes\\obj\\",
+      "outputPath": "C:\\Users\\kaya0\\source\\repos\\HNI-TPmoyennes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaya0\\AppData\\Roaming\\NuGet\\NuGet.Config",
